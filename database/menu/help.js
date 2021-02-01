@@ -153,8 +153,8 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
 *〈 TRUTH OR DARE 〉*
    ╽
    ┠≽ *${prefix}truth*
-   ┃ *Desc* : Random trust
-   ┠──────────────╼
+
+
    ┠≽ *${prefix}dare*
 *〈 MEME 〉*
    ╽
