@@ -554,9 +554,9 @@ async function starts() {
                                         if (!isRegister) return reply(mess.only.daftarB)
                                         await costum(from, education(prefix, botName, ownerName), text, tescuk, cr)
                                         break
-                                case 'funmenu':
+                                case 'info':
                                         if (!isRegister) return reply(mess.only.daftarB)
-                                        await costum(fun(prefix, botName, ownerName), text, tescuk, cr)
+                                        await costum(info(prefix, botName, ownerName), text, tescuk, cr)
                                         break
                                 case 'magernulis':
                                         if (!isRegister) return reply(mess.only.daftarB)
@@ -566,9 +566,9 @@ async function starts() {
                                         if (!isRegister) return reply(mess.only.daftarB)
                                         await costum(imagemaker(prefix, botName, ownerName), text, tescuk, cr)
                                         break
-                                case 'informationmenu':
+                                case 'donasi':
                                         if (!isRegister) return reply(mess.only.daftarB)
-                                        await costum(information(prefix, botName, ownerName), text, tescuk, cr)
+                                        await costum(donasi(prefix, botName, ownerName), text, tescuk, cr)
                                         break
                                 case 'islammenu':
                                         if (!isRegister) return reply(mess.only.daftarB)
