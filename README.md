@@ -1,5 +1,5 @@
 # apv1 
 
 thanks to :
-NazwaS &&
-MhankBarBar
+[NazwaS](https://github.com/NazwaS)
+[MhankBarBar](https://github.com/MhankBarBar)
