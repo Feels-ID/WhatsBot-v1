@@ -1,9 +1,9 @@
 exports.noregis = () => {
-        return `*「 BELUM REGISTER 」*\n\n*cara register ${prefix}register nama|umur* \n*Contoh: ${prefix}register Nazwa|16*`
+        return `*「 BELUM TERDAFTAR 」*\n\n*cara register ${prefix}register nama|umur* \n*Contoh: ${prefix}register Panpan|20*`
 }
 
 exports.rediregis = () => {
-        return `*「 SUDAH REGISTER 」*\n\n*kamu sudah register di database bot*`
+        return `*「 SUDAH TERDAFTAR 」*\n\n*kamu sudah register di database bot*`
 }
 
 exports.wrongf = () => {
