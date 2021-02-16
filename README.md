@@ -2,7 +2,7 @@
 <img src="https://static.wikia.nocookie.net/kenja-no-mago/images/8/85/Sizilien_von_klode_1.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="AGUSZ PAKEZ" src="https://img.shields.io/badge/MancaCans-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AGUSZ PAKEZ" src="https://img.shields.io/badge/AGUSZ PAKEZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/axfcap"><img title="Author" src="https://img.shields.io/badge/Author-MancaCansred.svg?style=for-the-badge&logo=github"></a>
@@ -17,7 +17,7 @@
 </p>
 
 ##Sosial media
-* [`YOUTUBE`] (https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ)
+* [`YOUTUBE`](https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ)
 * [`INSTAGRAM`](https://Instagram.com/axfc_ap)
 
 
