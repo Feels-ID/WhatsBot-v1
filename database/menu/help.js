@@ -1,14 +1,14 @@
 const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
         return `
 ▬▬|| Welcome To ${botName} ||▬▬
-*╭─͙─͙─͙─͙─͙─͙─͙─͙─͙─͙͙𒀭𖠄ྀྀ࿐*
+*╭𒀭𖠄ྀྀ࿐*
 *┊❍╭━─━━─≪✠≫─━─━─━╮*
 *┆💠 Creator : AGUSZ PAKEZ*
 *┆💠 wa   : wa.me/6289694354384*
 *┆💠 ig     : https://instagram.com/axfc_ap*
 *┆💠 YT   : AGUSZ PAKEZ*
 *┆❍╰━─━─━≪✠≫─━─━─━╯*
-*╰─͙─͙─͙─͙─͙─͙─͙─͙─͙─͙͙─ꕥꦿོ*
+*╰ꕥꦿོ*
 🔰 *YOUR INFO* 🔰
   ⚕️ Prefix: 「  ${prefix}  」
   ⚕️ Nama: ${pushname}
