@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/axfcap/axfcap/main/20210127_212936.jpg" width="400px"/>
+</p>
 <p align="center">
 <a href="#"><img title="AGUSZ PAKEZ" src="https://img.shields.io/badge/AGUSZ PAKEZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -13,6 +15,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXP-TN%2FXP-TNNBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
+
+
 
 ## Sosial media
 * [`YOUTUBE`](https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ)
