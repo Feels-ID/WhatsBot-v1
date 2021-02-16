@@ -16,7 +16,7 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
-##Sosial media
+## Sosial media
 * [`YOUTUBE`](https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ)
 * [`INSTAGRAM`](https://Instagram.com/axfc_ap)
 
